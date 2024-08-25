@@ -1,6 +1,3 @@
-
-![Software Developer](https://your-link-to-the-svg.com/software-developer.svg)
-
 # Hello!
 I am Leen Aboukhalil a passionate software development, with a strong focus on creating innovative solutions that address real-world challenges. My goal is to contribute to impactful projects that drive progress and make a positive difference. I am committed to continuously learning and expanding my skill set to stay at the forefront of technological advancements, while striving to deliver high-quality, efficient, and scalable solutions.
 
