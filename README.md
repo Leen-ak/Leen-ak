@@ -46,7 +46,7 @@ I am Leen Aboukhalil a passionate software development, with a strong focus on c
 "The only way to do great work is to love what you do." - Steve Jobs
 
 ## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leenaboukhalil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leen-aboukhalil)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Leen-ak)
 [![Outlook](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:leen_8_2001@outlook.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?logo=about&logoColor=white)](https://leenaboukhalil.netlify.app)
