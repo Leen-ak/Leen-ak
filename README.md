@@ -2,7 +2,7 @@
 I am Leen Aboukhalil a passionate software developer, with a strong focus on creating innovative solutions that address real-world challenges. My goal is to contribute to impactful projects that drive progress and make a positive difference. I am committed to continuously learning and expanding my skill set to stay at the forefront of technological advancements while striving to deliver high-quality, efficient, and scalable solutions.
 
 ## What I’m currently working on
-- E-commerce website with database 
+- Full-stack E-commerce website
 
 ## 💻 Technologies & Tools
 ### **Languages**
