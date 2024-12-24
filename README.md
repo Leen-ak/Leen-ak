@@ -11,6 +11,8 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
@@ -23,7 +25,6 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Algorithms](https://img.shields.io/badge/-Algorithms-4CAF50?logo=algorithm&logoColor=white)
 
 ## Currently Learning
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
 ## 🔮 Future Learning
