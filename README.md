@@ -48,7 +48,3 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Leen-ak)
 [![Outlook](https://img.shields.io/badge/-Email-0078D4?logo=microsoft-outlook&logoColor=white)](mailto:leen_8_2001@outlook.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?logo=about&logoColor=white)](https://leenaboukhalil.netlify.app)
-
-## Recent Activity
-![Leen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leen-ak&theme=radical&bg_color=0d1117&color=ffcc00&line=ff6600&point=ffffff&area=ffcc00&hide_border=true)
-
