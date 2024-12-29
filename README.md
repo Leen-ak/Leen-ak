@@ -31,9 +31,6 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
-## 📈 GitHub Stats
-![Leen's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leen-ak&theme=radical&background=0d1117&ring=ffcc00&fire=ff6600&currStreakLabel=ffcc00&currStreakNum=ff6600&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border=ffcc00)
-
 ## 📊 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leen-ak&layout=compact&theme=radical&bg_color=0d1117&title_color=ffcc00&text_color=c9d1d9&border_color=ffcc00&border_radius=10)
 
