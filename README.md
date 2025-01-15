@@ -27,6 +27,8 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 
 ## Currently Learning
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+
 
 ## 🔮 Future Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
