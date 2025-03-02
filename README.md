@@ -2,7 +2,6 @@
 I am Leen a passionate software developer, with a strong focus on creating innovative solutions that address real-world challenges. My goal is to contribute to impactful projects that drive progress and make a positive difference. I am committed to continuously learning and expanding my skill set to stay at the forefront of technological advancements while striving to deliver high-quality, efficient, and scalable solutions.
 
 ## What I’m currently working on
-- Full-stack E-commerce website
 - Full-stack Chess gaming Website
 
 ## 💻 Technologies & Tools
