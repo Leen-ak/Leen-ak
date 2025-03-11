@@ -32,12 +32,9 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Algorithms](https://img.shields.io/badge/-Algorithms-4CAF50?logo=algorithm&logoColor=white)
 
 ## Currently Learning
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## 🔮 Future Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
 ## 📊 Top Languages
