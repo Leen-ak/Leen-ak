@@ -4,7 +4,7 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ## What I’m currently working on
 - Full-stack Chess gaming Website
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 ### **Languages**
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -34,10 +34,10 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ## Currently Learning
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-## 🔮 Future Learning
+## Future Learning
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
-## 📊 Top Languages
+## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leen-ak&layout=compact&theme=radical&bg_color=0d1117&title_color=ffcc00&text_color=c9d1d9&border_color=ffcc00&border_radius=10)
 
 ## Hobbies and Interests
