@@ -12,8 +12,11 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![COBOL](https://img.shields.io/badge/-COBOL-002F6C?logo=gnu&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### **Libraries & Frameworks**
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
@@ -38,7 +41,7 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leen-ak&layout=compact&theme=radical&bg_color=0d1117&title_color=ffcc00&text_color=c9d1d9&border_color=ffcc00&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leen-ak&layout=compact&title_color=00bfff&text_color=add8e6&bg_color=0d1117&border_color=00bfff&border_radius=10)
 
 ## Hobbies and Interests
 - **Playing the Piano:** I enjoy composing and playing music in my free time.
