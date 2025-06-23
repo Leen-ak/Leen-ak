@@ -16,12 +16,15 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![COBOL](https://img.shields.io/badge/-COBOL-002F6C?logo=gnu&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 
 ### **Libraries & Frameworks**
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/VUE.JS-35495E?logo=vue.js&logoColor=4FC08D)
+![Quasar](https://img.shields.io/badge/QUASAR-1976D2?logo=quasar&logoColor=white)
+
+
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
