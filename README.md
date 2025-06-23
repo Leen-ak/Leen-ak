@@ -18,13 +18,11 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
 
 ### **Libraries & Frameworks**
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/VUE.JS-35495E?logo=vue.js&logoColor=4FC08D)
 ![Quasar](https://img.shields.io/badge/QUASAR-1976D2?logo=quasar&logoColor=white)
-
-
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -32,6 +30,9 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=white)
+![IBM COBOL](https://img.shields.io/badge/-IBM%20COBOL-052FAD?logo=ibm&logoColor=white)
+
 ### **Concepts**
 ![OOP](https://img.shields.io/badge/-OOP-4CAF50?logo=code&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-4CAF50?logo=data&logoColor=white)
