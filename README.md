@@ -44,9 +44,6 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ## Future Learning
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leen-ak&layout=compact&title_color=00bfff&text_color=add8e6&bg_color=0d1117&border_color=00bfff&border_radius=10)
-
 ## Hobbies and Interests
 - **Playing the Piano:** I enjoy composing and playing music in my free time.
 - **Nature Photography:** Capturing the beauty of nature is a passion of mine.
