@@ -1,5 +1,8 @@
-# Hello!
-I am Leen a passionate software developer, with a strong focus on creating innovative solutions that address real-world challenges. My goal is to contribute to impactful projects that drive progress and make a positive difference. I am committed to continuously learning and expanding my skill set to stay at the forefront of technological advancements while striving to deliver high-quality, efficient, and scalable solutions.
+# Hello! I am Leen 😎
+I love coding, learning new technologies, and figuring out how things work. 
+I'm a full-stack developer who genuinely enjoys every part of the development process—frontend, backend, and databases.
+I can't pick a favorite because I honestly love them all.For me, coding isn't just a career; it's my hobby. You'll usually find me building something new, 
+debugging a tricky problem, or exploring a technology I've never used before. Curiosity keeps me learning, and every project teaches me something new.
 
 ## What I’m currently working on
 - Full-stack Chess gaming Website
