@@ -1,6 +1,6 @@
 # Hello! I am Leen 😎
 I love coding, learning new technologies, and figuring out how things work. 
-I'm a full-stack developer who genuinely enjoys every part of the development process—frontend, backend, and databases.
+I'm a full-stack developer who genuinely enjoys every part of the development process frontend, backend, and databases.
 I can't pick a favorite because I honestly love them all.For me, coding isn't just a career; it's my hobby. You'll usually find me building something new, 
 debugging a tricky problem, or exploring a technology I've never used before. Curiosity keeps me learning, and every project teaches me something new.
 
