@@ -45,7 +45,7 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
 ## Hobbies and Interests
-- **Playing the Piano**
+- **Playing Piano**
 - **Drawing** 
 - **Reading**
 
