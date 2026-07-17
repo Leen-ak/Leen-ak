@@ -45,10 +45,9 @@ I am Leen a passionate software developer, with a strong focus on creating innov
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-007ACC?logo=python&logoColor=white)
 
 ## Hobbies and Interests
-- **Playing the Piano:** I enjoy composing and playing music in my free time.
-- **Nature Photography:** Capturing the beauty of nature is a passion of mine.
-- **Drawing:** I like to express my creativity through abstract drawings.
-- **Reading:** I also like to read psychology books.
+- **Playing the Piano**
+- **Drawing** 
+- **Reading**
 
 ## 💬 Inspirational Quote
 "The only way to do great work is to love what you do." - Steve Jobs
